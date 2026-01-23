@@ -6,3 +6,7 @@
 
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+
+##  SNAKE!
+
+<img src="https://raw.githubusercontent.com/KevinKovacDev/KevinKovacDev/output/snake.svg" alt="Snake animation" style="margin-bottom: 48px;" />
